@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "name": "Süleyman Onur Güdül",
+      "department": "Belediye",
+      "salary": 17000,
+      "id": 1
+    },
+    {
+      "name": "Süleyman Onur Güdül",
+      "department": "Belediye",
+      "salary": 17000,
+      "id": 2
+    },
+    {
+      "name": "Süleyman Onur Güdül",
+      "department": "Belediye",
+      "salary": 17000,
+      "id": 3
+    },
+    {
+      "name": "Ahmet Gürgen",
+      "department": "Spor",
+      "salary": 13000,
+      "id": 4
+    },
+    {
+      "name": "Eren Hazine",
+      "department": "Valorant",
+      "salary": 72000,
+      "id": 5
+    }
+  ]
+}
